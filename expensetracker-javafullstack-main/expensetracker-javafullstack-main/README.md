@@ -108,7 +108,7 @@ project/
 ---
 
 ## Credits
-- Developed by [Your Name]
+- Developed by Charan
 - Inspired by modern personal finance tools
 
 ---
@@ -125,7 +125,7 @@ This project is a sample Spring Boot application connected to a PostgreSQL datab
 
 ## 🧱 Project Structure
 
-- **Spring Boot App** - Java 17-based REST API
+- **Spring Boot App** - Java 21-based REST API
 - **PostgreSQL** - For relational database storage
 - **Docker** - To containerize the application
 - **Docker Compose** - To manage multi-container deployment
